@@ -1,0 +1,31 @@
+body
+{
+	
+	background-color:Moccasin;
+	border: 2px solid black;
+	font-size:150%;
+}
+h1
+{
+	color:blue;
+	text-align:center;
+}
+h2
+{
+	color:purple;
+}
+table, th, td 
+{
+	font-size:100%;
+	border: 2px solid black;
+	border-collapse: collapse;
+}
+img.displayed
+{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width:40%;
+	height:70%;
+}
+
